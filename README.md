@@ -1,2 +1,1 @@
-# basic_python_programs
-THIS REPO HAS BASIC PYTHON CODES FOR BEGAINNER 
+This repo has basic programs use to learn python 
